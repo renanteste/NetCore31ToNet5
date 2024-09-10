@@ -1,0 +1,17 @@
+C:\cursos_udemy\NetCore31ToNet5\src\Api.Service\bin\Debug\net5.0\Service.deps.json
+C:\cursos_udemy\NetCore31ToNet5\src\Api.Service\bin\Debug\net5.0\Service.dll
+C:\cursos_udemy\NetCore31ToNet5\src\Api.Service\bin\Debug\net5.0\ref\Service.dll
+C:\cursos_udemy\NetCore31ToNet5\src\Api.Service\bin\Debug\net5.0\Service.pdb
+C:\cursos_udemy\NetCore31ToNet5\src\Api.Service\bin\Debug\net5.0\Data.dll
+C:\cursos_udemy\NetCore31ToNet5\src\Api.Service\bin\Debug\net5.0\Domain.dll
+C:\cursos_udemy\NetCore31ToNet5\src\Api.Service\bin\Debug\net5.0\Domain.pdb
+C:\cursos_udemy\NetCore31ToNet5\src\Api.Service\bin\Debug\net5.0\Data.pdb
+C:\cursos_udemy\NetCore31ToNet5\src\Api.Service\obj\Debug\net5.0\Service.csprojAssemblyReference.cache
+C:\cursos_udemy\NetCore31ToNet5\src\Api.Service\obj\Debug\net5.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\cursos_udemy\NetCore31ToNet5\src\Api.Service\obj\Debug\net5.0\Service.AssemblyInfoInputs.cache
+C:\cursos_udemy\NetCore31ToNet5\src\Api.Service\obj\Debug\net5.0\Service.AssemblyInfo.cs
+C:\cursos_udemy\NetCore31ToNet5\src\Api.Service\obj\Debug\net5.0\Service.csproj.CoreCompileInputs.cache
+C:\cursos_udemy\NetCore31ToNet5\src\Api.Service\obj\Debug\net5.0\Service.csproj.CopyComplete
+C:\cursos_udemy\NetCore31ToNet5\src\Api.Service\obj\Debug\net5.0\Service.dll
+C:\cursos_udemy\NetCore31ToNet5\src\Api.Service\obj\Debug\net5.0\ref\Service.dll
+C:\cursos_udemy\NetCore31ToNet5\src\Api.Service\obj\Debug\net5.0\Service.pdb
